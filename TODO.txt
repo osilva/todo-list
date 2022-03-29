@@ -2,4 +2,5 @@
 4. learn arangodb
 5. learn kubernetes
 6. learn prometheus
-
+7. setup full disk encryption
+8. setup mfa on all possible accounts
