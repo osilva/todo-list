@@ -1,2 +1,5 @@
 3. learn git
 4. learn arangodb
+5. learn kubernetes
+6. learn prometheus
+
