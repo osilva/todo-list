@@ -1,0 +1,2 @@
+1. learn docker
+2. learn aws
