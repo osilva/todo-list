@@ -1,0 +1,8 @@
+3. learn git
+4. learn arangodb
+5. learn kubernetes
+6. learn prometheus
+7. setup full disk encryption
+8. setup mfa on all possible accounts
+9. setup macbook
+10. send recepts to easyjet
